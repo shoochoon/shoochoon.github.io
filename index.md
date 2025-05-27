@@ -43,8 +43,12 @@ As part of this research, I developed a dictionary-based database classifying al
 ## Non-Academic Experience
 
 ### **Freelance Linguist, DeepL**
+*October 2024 – present*
 
 My responsibilities mostly include annotations and machine translation evaluation.
+
+### **Editor-Translator, Heilongjiang Archives** · *Harbin, China*
+*March 2018 – May 2021*
 
 ## Education
   ### **MA in Philology**
