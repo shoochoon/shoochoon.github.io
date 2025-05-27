@@ -51,11 +51,11 @@ My responsibilities mostly include annotations and machine translation evaluatio
 *March 2018 – May 2021*
 
 ## Education
-  ### **MA in Philology**
+### **MA in Philology**
   
 **Moscow State University** · *Russia*
 
-  ### **BA in Russian Language and Literature**
+### **BA in Russian Language and Literature**
   
 **Shenyang Ligong University** · *China*
 
