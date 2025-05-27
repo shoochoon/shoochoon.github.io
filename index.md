@@ -7,7 +7,7 @@ title: Welcome to My Website
 
 I am specialised in Russian linguistics, Chinese modern political philosophy and interested in more things.
 
-## 🔧 Academic Experience
+## Academic Experience
 
 ### **MAS in Natural Language Processing**
 **Ghent University** · *Belgium*
@@ -40,12 +40,20 @@ This dissertation analyzes deadjectival nominalisation in modern Russian, with p
 
 As part of this research, I developed a dictionary-based database classifying all deadjectival nouns listed in Shvedova’s Dictionary of Russian (2011) into three categories: pure syntactic derivatives, pure lexical derivatives, and polysemic derivatives. The study also investigates the ongoing process of nominalisation using the suffix -ism, exploring its relevance to synonym detection through diagnostic contextual analysis.
 
-## 🔧 Non-Academic Experience
+## Non-Academic Experience
 
 ### **Freelance Linguist, DeepL**
 
 My responsibilities mostly include annotations and machine translation evaluation.
 
+## Education
+  ### **MA in Philology**
+  
+**Moscow State University** · *Russia*
+
+  ### **BA in Russian Language and Literature**
+  
+**Shenyang Ligong University** · *China*
 
 ## 📫 Contact Me
 
