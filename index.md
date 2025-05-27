@@ -14,27 +14,27 @@ I am specialised in Russian linguistics, Chinese modern political philosophy and
 
 *September 2023 – September 2025*
 
-Thesis title: Tracing Logical Fallacies through Rhetorical Structure: A Case Study of  Tolstoy’s *What Is Art*?
+Thesis title: **Tracing Logical Fallacies through Rhetorical Structure: A Case Study of  Tolstoy’s *What Is Art*?**
 
 This study introduces a novel framework that integrates rule-based semantic similarity metrics, rhetorical structure annotation, and zero-shot large language model (LLM) prompting to investigate the complex interaction among rhetorical strategies, textual form, and logical soundness in Tolstoy’s What Is Art?. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Employing simulated reader stances, the research reveals significant divergences in LLM behavior, particularly a sharp contrast between Claude and Gemini when prompted for a neutral reader stance. While Claude identified four fallacies under this condition, Gemini detected none, suggesting model-specific interpretations of 'neutrality' and varying manifestations of an inherent 'logicality bias'.
 
-### **PhD in History of Philosophy**  
+### **PhD in Philosophy**  
 
 **RUDN University** · *Moscow, Russia*  
 
 *September 2021 – February 2025*
 
-Thesis title: *The Tianxia Concept and Morality in Modern Chinese Philosophy*
+Thesis title: **The Tianxia Concept and Morality in Modern Chinese Philosophy**
 
 This dissertation explores the complex relationship between politics and morality through the lens of the ancient Chinese concept of *Tianxia* in its modern reinterpretations. It focuses on the argumentative models employed by contemporary Tianxia theorists and examines how their frameworks contribute to the politicisation of *Tianxia* in present-day discourse.
 
-### **PhD in Russian Linguistics**  
+### **PhD in Linguistics**  
 
 **Moscow State University** · *Moscow, Russia*
 
 *October 2018 – December 2024*
 
-Thesis title: *Nominalisation of Adjectives in Modern Russian Language*
+Thesis title: **Nominalisation of Adjectives in Modern Russian Language**
 
 This dissertation analyzes deadjectival nominalisation in modern Russian, with particular attention to linguistic mechanisms such as metonymy, polysemy, and syntactic derivation. The goal of the study is to propose a theoretical framework for the automated detection of nominalisations, with potential applications in computational text analysis.
 
