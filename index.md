@@ -44,9 +44,13 @@ As part of this research, I developed a dictionary-based database classifying al
   
 **Moscow State University** · *Russia*
 
-### **BA in Russian Language and Literature**
+### **BA in Russian Language**
   
 **Shenyang Ligong University** · *China*
+
+#### **Exchange student in Russian Philology**
+  
+**Tomsk State University** · *Russia*
 
 ## 👷 Non-Academic Experience
 
