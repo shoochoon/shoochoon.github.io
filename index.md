@@ -16,7 +16,7 @@ I am specialised in Russian linguistics, Chinese modern political philosophy and
 
 Thesis title: **Tracing Logical Fallacies through Rhetorical Structure: A Case Study of  Tolstoy’s *What Is Art*?**
 
-This study introduces a novel framework that integrates rule-based semantic similarity metrics, rhetorical structure annotation, and zero-shot large language model (LLM) prompting to investigate the complex interaction among rhetorical strategies, textual form, and logical soundness in Tolstoy’s What Is Art?. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Employing simulated reader stances, the research reveals significant divergences in LLM behavior, particularly a sharp contrast between Claude and Gemini when prompted for a neutral reader stance. While Claude identified four fallacies under this condition, Gemini detected none, suggesting model-specific interpretations of 'neutrality' and varying manifestations of an inherent 'logicality bias'.
+This study introduces a novel framework that integrates rule-based semantic similarity metrics, rhetorical structure annotation, and zero-shot large language model (LLM) prompting to investigate the complex interaction among rhetorical strategies, textual form, and logical soundness in Tolstoy’s What Is Art?. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Employing simulated reader stances, the research reveals significant divergences in LLM behavior, particularly a sharp contrast between Claude and Gemini when prompted for a neutral reader stance. While Claude identified four fallacies under this condition, Gemini detected none, suggesting model-specific interpretations of 'neutrality' and varying manifestations of an inherent 'logicality bias'.
 
 ### **PhD in Philosophy**  
 
@@ -52,14 +52,19 @@ As part of this research, I developed a dictionary-based database classifying al
 
 ### **Freelance Linguist**
 **DeepL** · *remote*
-*October 2024 – present*
 
-My responsibilities mostly include annotations and machine translation evaluation.
+October 2024 – present
+
+### **Copywriter**
+**Joom SIA** · *Riga, Latvia*
+
+June 2021 – present
 
 ### **Editor-Translator**
 
 **Heilongjiang Archives** · *Harbin, China*
-*March 2018 – May 2021*
+
+March 2018 – May 2021
 
 ## 📫 Contact Me
 
