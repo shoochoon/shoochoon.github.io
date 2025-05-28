@@ -70,6 +70,28 @@ June 2021 – present
 
 March 2018 – May 2021
 
+## 📑 Publications
+
+### *On Russian word-formation and semantics:*
+
+Zhang Shuchun (2020). Semantic Characteristic of Nouns Formed with the Suffix -ost’ in the Modern Russian Literary Language. Vestnik of Samara University. History, pedagogics, philology, vol. 26, issue 4, pp. 101-108. (In Russian).
+
+Zhang Shuchun. Osobennosti povedeniya mnogoznachnogo sushhestvitel’nogo «real’nost’» v russkikh gazetnykh tek- stakh [Characteristics of the Polysemic Noun «real’nost’» in Russian Newspaper Texts]. Vestnik Permskogo universi- teta. Rossiyskaya i zarubezhnaya filologiya [Perm University Herald. Russian and Foreign Philology], 2021, vol. 13, issue 1, pp. 64–72. doi 10.17072/2073-6681-2021-1-64-72 (In Russ.)
+
+Shuchun, Z. (2020). Semantic characteristic of nouns formed with the suffix -ost’ in the modern Russian literary language. Vestnik of Samara University. History, Pedagogics, Philology, 26(4), 101–108.
+
+Shuchun, Z. (2020). Composition And Charicteristics Of Russian Nouns Formed With the suffix -ost’: A Case Of The Corpus Database 'Russkiye Gazety Kontsa Dvadtsatogo Veka'
+
+### *On Chinese political philosophy*
+
+Zhang Shuchun (2023). THE DEVELOPMENT OF THE CONCEPT “POLITICAL LEGITIMACY” IN THE HISTORY OF CHINESE PHILOSOPHY. Proceedings of Tula State University. Humanities. 2023, No. 2.
+
+Shuchun Zhang. Morality in politics: Zhao Tingyang’s political philosophy // Socium i vlast’. 2022. No 3 (93). P. 37—45. DOI: 10.22394/1996-0522-2022-3-37-45.
+
+Zhang, Sh. (2024) “Alternative moral policy”: the Tianxia system and its development. Sotsium i vlast/Society and Power, no. 2 (100), pp. 21—33. DOI 10.22394/1996-0522-2024-2-21-33 [in Russ].
+
+
+
 ## 📫 Contact Me
 
 - Email: [shuchun.zhang@outlook.com](mailto:chun.zhang@outlook.com)
