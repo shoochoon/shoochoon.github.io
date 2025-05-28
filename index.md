@@ -5,7 +5,7 @@ title: Welcome to My Website
 
 # 👋 Hello, I'm Shuchun
 
-I am specialised in Russian linguistics, Chinese modern political philosophy and interested in more things.
+My work focuses on computational linguistics, Russian grammar, and modern Chinese political philosophy. But my curiosity extends far beyond these fields.
 
 ## 🎓 Academic Experience
 
