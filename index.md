@@ -32,7 +32,7 @@ This dissertation explores the complex relationship between politics and moralit
 
 ### **PhD in Linguistics**  
 
-**Moscow State University** · *Moscow, Russia*
+**Lomonosov Moscow State University** · *Moscow, Russia*
 
 *Research Period*:  October 2018 – September 2021
 
