@@ -18,7 +18,7 @@ Thesis title: **Tracing Logical Fallacies through Rhetorical Structure: A Case S
 
 This study introduces a novel framework that integrates rule-based semantic similarity metrics, rhetorical structure annotation, and zero-shot large language model (LLM) prompting to investigate the complex interaction among rhetorical strategies, textual form, and logical soundness in Tolstoy’s What Is Art?. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Employing simulated reader stances, the research reveals significant divergences in LLM behavior, particularly a sharp contrast between Claude and Gemini when prompted for a neutral reader stance. While Claude identified four fallacies under this condition, Gemini detected none, suggesting model-specific interpretations of 'neutrality' and varying manifestations of an inherent 'logicality bias'.
 
-### **PhD in Russian Linguistics**  
+### **PhD in Linguistics**  
 
 **Lomonosov Moscow State University** · *Moscow, Russia*
 
