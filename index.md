@@ -22,17 +22,19 @@ This study introduces a novel framework that integrates rule-based semantic simi
 
 **RUDN University** · *Moscow, Russia*  
 
-*September 2021 – February 2025*
+*Research Period*:  September 2021 – June 2024
+*Degree Awarded*: February 2025
 
-Thesis title: **The Tianxia Concept and Morality in Modern Chinese Philosophy**
+Thesis title: **The *Tianxia* Concept and Morality in Modern Chinese Philosophy**
 
-This dissertation explores the complex relationship between politics and morality through the lens of the ancient Chinese concept of *Tianxia* in its modern reinterpretations. It focuses on the argumentative models employed by contemporary Tianxia theorists and examines how their frameworks contribute to the politicisation of *Tianxia* in present-day discourse.
+This dissertation explores the complex relationship between politics and morality through the lens of the ancient Chinese concept of *Tianxia* in its modern reinterpretations. It focuses on the argumentative models employed by contemporary *Tianxia* theorists and examines how their frameworks contribute to the politicisation of *Tianxia* in present-day discourse.
 
 ### **PhD in Linguistics**  
 
 **Moscow State University** · *Moscow, Russia*
 
-*October 2018 – December 2024*
+*Research Period*:  October 2018 – September 2021
+*Degree Awarded*: December 2024
 
 Thesis title: **Nominalisation of Adjectives in Modern Russian Language**
 
