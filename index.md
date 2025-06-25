@@ -5,7 +5,7 @@ title: Welcome to My Website
 
 # 👋 Hello, I'm Shuchun
 
-My work focuses on computational linguistics, Russian grammar, and modern Chinese political philosophy. But my curiosity extends far beyond these fields.
+My work focuses on computational linguistics, semantics, Russian syntax and word-formation, and political philosophy. But my curiosity extends far beyond these fields.
 
 ## 🎓 Academic Experience in Linguistics
 
@@ -18,7 +18,7 @@ Thesis title: **Tracing Logical Fallacies through Rhetorical Structure: A Case S
 
 This study introduces a novel framework that integrates rule-based semantic similarity metrics, rhetorical structure annotation, and zero-shot large language model (LLM) prompting to investigate the complex interaction among rhetorical strategies, textual form, and logical soundness in Tolstoy’s What Is Art?. Our preliminary findings indicate that specific structural patterns, such as high semantic similarity scores and chains of elaborations, reliably signal areas of potential fallacious reasoning. Employing simulated reader stances, the research reveals significant divergences in LLM behavior, particularly a sharp contrast between Claude and Gemini when prompted for a neutral reader stance. While Claude identified four fallacies under this condition, Gemini detected none, suggesting model-specific interpretations of 'neutrality' and varying manifestations of an inherent 'logicality bias'.
 
-### **PhD in Linguistics**  
+### **PhD in (Russian) Linguistics**  
 
 **Lomonosov Moscow State University** · *Moscow, Russia*
 
@@ -64,7 +64,7 @@ March 2018 – May 2021
 
 ## 🎓 Other Research Experience
 
-### **PhD in Philosophy**  
+### **PhD in History of Philosophy**  
 
 **RUDN University** · *Moscow, Russia*  
 
@@ -93,6 +93,8 @@ Zhang Shuchun (2023). THE DEVELOPMENT OF THE CONCEPT “POLITICAL LEGITIMACY” 
 Zhang Shuchun (2022).  Morality in politics: Zhao Tingyang’s political philosophy // Socium i vlast’. 2022. No 3 (93). P. 37—45. DOI: 10.22394/1996-0522-2022-3-37-45.
 
 Zhang Shuchun (2024). “Alternative moral policy”: the Tianxia system and its development. Sotsium i vlast/Society and Power, no. 2 (100), pp. 21—33. DOI 10.22394/1996-0522-2024-2-21-33 [in Russ].
+
+Nizhnikov, S., & Zhang, S. (in review). The Problems of the Chinese Concept of "Tianxia" and Education.
 
 ## 📫 Contact Me
 
